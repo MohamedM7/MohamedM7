@@ -1,4 +1,4 @@
-<img align="center" alt="cover" src="https://i.imgur.com/9dk4iSa.gif">
+<img align="center" alt="cover" src="https://i.imgur.com/9dk4iSa.webp">
 
 <h1 align="center">Hi 👋, I'm Mohamed Mammeri</h1>
 <h3 align="center">A Full-Stack Developer & Software Engineer from Algeria</h3>
