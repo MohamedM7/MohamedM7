@@ -1,12 +1,12 @@
-<img align="center" alt="cover" src="https://i.imgur.com/9dk4iSa.gif" >
+<img align="center" alt="cover" src="https://lh3.googleusercontent.com/qXMJ1n5PPvt2XWszl9M37Z4dBvacFrZM1qQUsj3Zr_ELyod03VX8BBNnoDQehaFQYWUvy17N8vXVm3yJKMkRFwWAUVXUzauEPyw278fOEo3Iojy2I97AK0-9x_CkmHUEzSe_FEEdTLtAKKPq1fU5USRUgPHIQYMFoJW10pDwI8rqnWqqENN5TSdXDoQ_MHa_Z5jlJ5nNxFFAJbgraF3DFvU2I3RDNXYLMLnnx3NXcssA88ALF1KagcnwVnO3H6IwvZoPioQw42CXnVUigTir9b7CTbIoW66DX8-G0Bj5ejnGxn8LAiGNDEGY3Fc-Est7CnzY5pYb47RC7pVDrbeo-NK3LaDkoQqQp1VHnG-_J_SdXzbMlAmNO6aqhMK9g-kdr7WyDyOeA_tFXuQ1-Lu-fShgYV4OZ03XPpX1pxIzrHryC3DTNNOjQiFcu9ta4Koob7-RRyKt7qo2ZcH34E9WGYWuOJEKv5T2axSI344oWPoVD49032dx2K1gu46Mg0sJtImxvwpEkDP-4MSEU5WPXD1uV04U7H5OEmf4XzTU_Y2gt0wcjBR2-Q2wZ9RDJESdJU67ZoqBFHYGV_sn9Rl4FII4Oac04PBLSBc1HZ_sUssLKJYvTa3nt2QsvGxa1zzerff58ZPN5CZSEWEHX96pdkCG3pJuZCda5H2OrNg8MTuLMUL_c5mZ16SLuzFVL9npRK0tqLNbWkAOXVjU3dp0foqyqnZ7NefRVfcf5s_9gW1WVc-c3aOTMVrwynlu_Ctu4DJUTDQlyCRZEWJK5JAtGWuUH0zSD2rkEFqc0MShH3wEk464Q6_Pr-9GRuP8pkWZkAkhkxrJxpH9at95X4H-PF_4nz9kpnLoBEy4P_xyentmL69hF4agq7YNOmfxhFvFRLVDia2qaLR8TiW0PpI9QYDKaqYA5IwmGY80DeolWWgt=w528-h220-no?authuser=0" height="170" width="1500">
 
 <h1 align="center">Hi 👋, I'm Mohamed Mammeri</h1>
 <h3 align="center">A Full-Stack Developer & Software Engineer from Algeria</h3>
 <img align="right" alt="Main" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp">
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **node.js** 
 
-- ⚡Porfolio [mohamedmammeri.com](mohamedmammeri.com)
+- ⚡Porfolio [mohamedmammeri.com](mohamedmammeri.com) 
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-m7/](https://www.linkedin.com/in/mohamed-m7/)
 
