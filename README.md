@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Mammeri</h1>
 <h2 align="center">A Full-Stack Developer & Software Engineer from Algeria</h2>
-<img align="right" alt="Main" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp">
+<img align="right" alt="Main" width="370" height="360" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp">
 
 
 - <h3> ⚡ My Porfolio : <a href="https://mohamedmammeri.com/">MohamedMammeri.com</h3>
