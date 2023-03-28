@@ -11,9 +11,9 @@
   
 - <h3> 📝 My Linkedin : <a href="https://www.linkedin.com/in/mohamed-m7/">Mohamed-m7</a>
 
-- <h4> ✍  I’m currently learning : Node.js </h4> 
+- <h4> ✍ I’m currently learning : Node.js </h4> 
 
-- <h4>💬 Ask me about : JavaEE, Spring </h4>
+- <h4> 💬 Ask me about : JavaEE, Spring </h4>
 
 
 <h3 align="left">Connect with me:</h3>
