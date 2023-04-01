@@ -1,4 +1,4 @@
-<img align="center" alt="cover" src="https://github.com/MohamedM7/ExamMe/blob/main/Covver.gif" height="170" width="1500"> 
+<image align="center" alt="this slowpoke moves" src="https://github.com/MohamedM7/ExamMe/blob/main/Covver.gif" height="170" width="1500"> 
 
 <h1 align="center">Hi 👋, I'm Mohamed Mammeri</h1>
 <h2 align="center">A Full-Stack Developer & Software Engineer from Algeria</h2>
