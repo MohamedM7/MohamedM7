@@ -1,4 +1,4 @@
-<img lign="center" alt="Mohamed-M7" src="https://s10.gifyu.com/images/Covver.gif" height="170" width="1500"> 
+<img lign="center" alt="Mohamed-M7" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZhZDMxZGE0MDA0Mjk1ZDhlNWYyMDA2NzRiZmY2YWM3OGJlNThmNCZjdD1n/NEZ3WXkUfSvgjh0aW2/giphy.gif" height="170" width="1500"> 
 
 <h1 align="center">Hi 👋, I'm Mohamed Mammeri</h1>
 <h2 align="center">A Full-Stack Developer & Software Engineer from Algeria</h2>
